@@ -24,7 +24,23 @@ description: A course led by Laura Alessandretti on Computational Social Science
   * __Reading__: [Power laws, Pareto distributions and Zipf’s law](https://www.cs.cornell.edu/courses/cs6241/2019sp/readings/Newman-2005-distributions.pdf) Read the introduction and skim through the rest of the article.    
 
 
-[Week 4: Networks 1 - Building the Network](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/lectures/Week4.ipynb) Today we learn about networks and how we can use them to understand social systems. We will start from the theory. There will be some video lectures + some reading, where we'll answer some important questions, such as "Why would anyone care about networks" and "How can you use Python to study networks". Then, we will put the learning into practice. We will build the social network of Computational Social Scientists and run some initial analyses.
+[Week 4: Networks I - Building the Network](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/lectures/Week4.ipynb) Today we learn about networks and how we can use them to understand social systems. We will start from the theory. There will be some video lectures + some reading, where we'll answer some important questions, such as "Why would anyone care about networks" and "How can you use Python to study networks". Then, we will put the learning into practice. We will build the social network of Computational Social Scientists and run some initial analyses.
  * __Reading__: [Chapters 1 and 2 of the Network Science book](http://networksciencebook.com/chapter/1)
 
+* __Assignment__: [Assignment 1 is live!](https://nbviewer.org/github/lalessan/comsocsci2023/blob/master/assignments/Assignment1.ipynb)
+
+[Week 5: Networks II - Properties of Real World Networks](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/7457b4c/lectures/Week5.ipynb).  More on networks! First some talking by me, where you will learn some of the properties of real-world social networks. Then, you will use the NetworkX library to visualise and investigate the properties of the Computational Social Scientists Network. You will study properties of this network and compare it to a random network model.
+
+ * __Reading__: [Chapter 3 of the Network Science book](http://networksciencebook.com/chapter/3).  The most important sections are 3.1 to 3.4 and 3.8 to 3.10, so focus on that.
+
+
+ [Week 6: Networks III - Centrality, Assortativity and Communities](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/dea63e4/lectures/Week6.ipynb).  Today we will study the network of Computational Social Scientists more in depth. We will learn about more advanced network science concepts (centrality, assortativity, communities), then put things into practice to study the network of Computational Social Scientists.  
+
+
+ * __Reading__: [Chapter 7 of the Network Science book](http://networksciencebook.com/chapter/7)(the most important sections are 7.1 to 7.3); [Chapter 9 of the Network Science book](http://networksciencebook.com/chapter/9) (you can skip 9.3, 9.5 and 9.7).
+
+  [Week 7: Text 1 - The Basics ](https://nbviewer.jupyter.org/github/lalessan/comsocsci2023/blob/c36ae2e/lectures/Week7.ipynb). We're changing gears. We've looked at the network of Computational Social Scientists. Now we'll put together the tools for working with the text. We will learn the basics, then  get real and work with the text from the papers' abstracts. 
+
+ * __Reading I__: [Chapter 1 (sections 1.1 to 1.3) of the Natural Language Processing with Python (NLPP) book](http://www.nltk.org/book/).
+ * __Reading II__: [Chapter 3 (sections 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.9, and 3.10. )  of the Natural Language Processing with Python (NLPP) book](http://www.nltk.org/book/) It's not important that you go in depth with everything here - the key think is that you know that Chapter 3 of this book exists, and that it's a great place to return to if you're ever in need of an explanation of regular expressions, unicode, etc.
 

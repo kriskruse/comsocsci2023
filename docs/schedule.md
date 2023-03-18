@@ -14,10 +14,10 @@ description: A course led by Laura Alessandretti on Computational Social Science
 | feb 15      | Lecture 3                   | Data 2: Distributions in Empirical data                    | Feb           |      Wed       |
 | feb 22      | Lecture 4                   | Networks 1: Building the network       | Feb           |      Wed       |
 | feb 28      | Assignment 1                | Assignment Due                    | Mar           |      Tue       |
-| mar 1       | Lecture 5                   | Networks 2                   | Mar           |      Wed       |
-| mar 8       | Lecture 6                   | Text 1                     | Mar           |      Wed       |
-| mar 15      | Lecture 7                   | Text 2                   | Mar           |      Wed       |
-| mar 22      | Lecture 8                   | Networks and Text                    | Mar           |      Wed       |
+| mar 1       | Lecture 5                   | Networks 2 : Properties of Real World Networks                 | Mar           |      Wed       |
+| mar 8       | Lecture 6                   | Networks 3 : Centrality, Assortativity and Communities         | Mar           |      Wed       |
+| mar 15      | Lecture 7                   | Text 1: The Basics                  | Mar           |      Wed       |
+| mar 22      | Lecture 8                   | Text 2: Networks and Text            | Mar           |      Wed       |
 | mar 28      | Assignment 2                | Assignment Due                    | Mar           |      Tue       |
 | mar 29      | Project Assignment A        |Independent Preparation Work| Mar           |      Wed       |
 | apr 5       | Easter Break                | Easter Break                    | Apr           |      Wed       |
